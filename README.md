@@ -57,7 +57,7 @@ attendance-system/
 - Student-wise & Date-wise view
 
 ---
-
+file:///C:/Users/sriva/OneDrive/Pictures/Desktop/attendance-system/dashboard.html
 ## 🌍 Live Demo
 👉 **Live URL:**  
 
